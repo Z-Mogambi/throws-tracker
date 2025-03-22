@@ -1,2 +1,2 @@
 # throws-tracker
-GUI app utilizing Tkinter &amp; JSON to keep track of my throws (shot put &amp; discus) analyzing them giving me predictions
+GUI app utilizing Tkinter and JSON to keep track of my throws (shot put and discus) analyzing them giving me predictions
